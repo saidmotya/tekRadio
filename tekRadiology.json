@@ -7,14 +7,14 @@
           {
             "title": "Face AP (RE)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_1.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout ou en DD, ou assis.\n⬤ Tête est tournée vers le côté sain\n⬤ Un angle de 35° entre l’épaule sain et le portique pour bien dégager l’interligne scapulo-humérale et assurer en même temps un bon contact de l’épaule à examiner avec la cassette.\n⬤ Bras en très légère abduction ; avant-bras en supination, paume de la main tournée vers le haut.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55 à 64\n⬤ mAs : 20 à 25\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné de 20 à 30° vers les pied (sens crânio-podal) centré sur la dépression sous-acromiale.",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Interligne scapulo-humérale bien visible\n⬤ Tête humérale exposée de face\n⬤ Trochiter en dehors\n⬤ Col anatomique dégagé\n⬤ Tête séparée de l’articulation acromio-claviculaire"
             ]
@@ -22,14 +22,14 @@
           {
             "title": "Face AP (RI)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_3.png",
               "POSITION DU PATIENT :",
               "⬤ Même technique mais l’avant-bras en pronation, paume de la main appliquée contre la table.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55 à 64\n⬤ mAs : 20 à 25\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné de 20 à 30° vers les pied (sens crânio-podal) centré sur la dépression sous-acromiale.",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Trochin visible en dedans\n⬤ Tête humérale vue de profil"
             ]
@@ -37,14 +37,14 @@
           {
             "title": "Face AP (RN)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_5.png",
               "POSITION DU PATIENT :",
               "⬤ Même technique mais le bras est le long du corps.\n⬤ La paume de la main en face de la cuisse.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55 à 64\n⬤ mAs : 20 à 25\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné de 20 à 30° vers les pied (sens crânio-podal) centré sur la dépression sous-acromiale.",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ On doit voir la partie supérieure de l’humérus, la glène, l’apophyse coracoïde de l’omoplate, l’acromion, et la partie distale de la clavicule\n⬤ L’interligne gléno-huméral dégagée\n⬤ L’espace sous-acromial est visible\n⬤ Le trochiter est de profil, c’est à dire qu’il doit être bien visible ; le trochin est vu de face, c’est à dire non visible\n⬤ Les parties molles doivent être analysable"
             ]
@@ -52,14 +52,14 @@
           {
             "title": "Omoplate AP",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_7.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout ou assis.\n⬤ Tête est tournée vers le côté sain\n⬤ Un angle de 20° entre l’épaule sain et le portique.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55\n⬤ mAs : 20 à 25\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD est tangent au thorax, au niveau du creux axillaire (3 doigt au-dessous de la clavicule)",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bon dégagement de la glène et de la portion axillaire de l’omoplate."
             ]
@@ -67,14 +67,14 @@
           {
             "title": "Profil Trans-thoracique",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_9.png",
               "POSITION DU PATIENT :",
               "⬤ Malade de profil strict, l’épaule abaissée au maximum et appuyée contre la cassette\n⬤ Le bras sain en abduction, la main repose à plat sur la tête",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 60 à 70\n⬤ mAs : 30 à 40\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD est horizontal visant l’épaule malade à travers le creux axillaire du côté sain.",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_10.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bonne visibilité de la tête humérale et de l’articulation Omo-humérale"
             ]
@@ -82,14 +82,14 @@
           {
             "title": "Bloom-Obata",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_11.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_11.png",
               "POSITION DU PATIENT :",
               "⬤ Debout en hyperlordose contre la table horizontale\n⬤ L’épaule à examiner en rétropulsion (basculée en arrière)\n⬤ Le bras valide (non à exposé) légèrement porté en avant",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55\n⬤ mAs : 20 à 25\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD vise la pointe de l’acromion",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_12.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_12.png",
               "CRITERES DE REUSSITE :",
               "⬤ Epaule dégagée de toute superposition\n⬤ Glène et tête humérale presque de profil"
             ]
@@ -97,14 +97,14 @@
           {
             "title": "Profil de Lamy (de coiffe)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_13.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_13.png",
               "POSITION DU PATIENT :",
               "⬤ Debout en oblique antérieure de 45° à 60° du côté à examiner\n⬤ Le bras est pendant, coude fléchi et légèrement porté en arrière",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 60\n⬤ mAs : 20 à 30\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD H vise l’angle super-interne de l’omoplate",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_14.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_14.png",
               "CRITERES DE REUSSITE :",
               "⬤ Omoplate vue de profil sous forme de « Y »\n⬤ Glène vue de face\n⬤ Bon dégageant du cintre acromio-claviculaire\n⬤ Diaphyse humérale dégagée de l’épaule",
               "INTERET :",
@@ -114,14 +114,14 @@
           {
             "title": "Bernageau (profil glénoïdale)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_15.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_15.png",
               "POSITION DU PATIENT :",
               "⬤ Malade debout devant le portique avec un angle de 40 à 50° du côté à Examiner (oblique antérieur)\n⬤ Bras et avant-bras en élévation appuyés contre le plan de la table",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50 à 60\n⬤ mAs : 30 à 40\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné de 20 à 30° vers les pieds. On centre sur la fossette sous acromiale.",
-              "https://zonekapp.com/tekAssets/troa_ms_epaule_16.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_epaule_16.png",
               "CRITERES DE REUSSITE :",
               "⬤ Présence d’un triangle antérieur correspondant au débord de la portion antéro-inférieur de la glène",
               "INTERET :",
@@ -136,14 +136,14 @@
           {
             "title": "Face PA",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_1.png",
               "POSITION DU PATIENT :",
               "⬤ Sujet en DV et en rectitude ou debout PA\n⬤ Tête tournée vers le côté sain\n⬤ Bras le long du corps\n⬤ Clavicule au centre",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50 à 65\n⬤ mAs : 8\n⬤ DFF : 1 à 1,30m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré sur l’angle supéro-interne de l’omoplate.",
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Les 2/3 externes de la clavicule sont dégagés des cotes supérieures et de l’omoplate\n⬤ Superposition de sa partie médiale avec les premières côtes"
             ]
@@ -151,14 +151,14 @@
           {
             "title": "Défilé claviculaire",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_3.png",
               "POSITION DU PATIENT :",
               "⬤ Malade en DD et en rectitude ou debout\n⬤ La tête tournée vers le côté opposé au côté radiographié.\n⬤ Bras le long du corps",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50 à 65\n⬤ mAs : 8\n⬤ DFF : 1 à 1,30m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné de 20 à 25° en podo-cranial au milieu de la clavicule.",
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Articulation acromio-claviculaire dégagée\n⬤ Clavicule bien dégagée par rapport au thorax et dans son entier."
             ]
@@ -166,14 +166,14 @@
           {
             "title": "Défilé acromio-claviculaire (Zanca)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_5.png",
               "POSITION DU PATIENT :",
               "⬤ Malade en DD et en rectitude ou debout\n⬤ La tête tournée vers le côté opposé au côté radiographié.\n⬤ Bras le long du corps en rotation externe",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50 à 65\n⬤ mAs : 8\n⬤ DFF : 1 à 1,30m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné de 30° à 35° en podo-cranial sur l'articulation acromio-claviculaire",
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bon dégagement de l'articulation acromio-claviculaire sur toute sa longueur.\n⬤ Bonne visualisation de l’acromion"
             ]
@@ -181,14 +181,14 @@
           {
             "title": "Sterno-claviculaire",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_7.png",
               "POSITION DU PATIENT :",
               "⬤ Debout de profil, côté traumatisé contre la table, inflexion latérale du tronc du côté à examiner.\n⬤ Le bras de ce côté est pendant, l'autre est en élévation, main sur la tête.\n⬤ Le manubrium sternal doit être positionné en profil strict",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50 à 65\n⬤ mAs : 8\n⬤ DFF : 1 à 1,30m",
               "RAYON DIRECTEUR :",
               "⬤ RD sur l'articulation sterno-claviculaire",
-              "https://zonekapp.com/tekAssets/troa_ms_claviculair_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_claviculair_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Le manubrium sternal doit être strictement de profil.\n⬤ Bonne visibilité du bord antérieur de la clavicule",
               "INTERET :",
@@ -203,14 +203,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_bras_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_bras_1.png",
               "POSITION DU PATIENT :",
               "⬤ En décubitus ou debout à côté de la table d'examen.\n⬤ Bras en légère abduction, main en supination\n⬤ La ligne épicondyle-épitrochlée parallèle au plan de la table\n⬤ Tête tournée du côté opposé",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55 à 60\n⬤ mAs : 7\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD au milieu de la diaphyse humérale.",
-              "https://zonekapp.com/tekAssets/troa_ms_bras_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_bras_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visibilité des articulations sus et sous-jacentes\n⬤ Palette humérale bien étalée et vue de face\n⬤ Visibilité des contours des parties molles"
             ]
@@ -218,14 +218,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_bras_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_bras_3.png",
               "POSITION DU PATIENT :",
               "⬤ Debout, en légère oblique antérieure du côté à radiographier,\n⬤ Avant-bras fléchi à 90°.\n⬤ La main reposant sur le ventre.\n⬤ Bras en légère abduction, pour dégager l’humérus du tronc",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 55 à 60\n⬤ mAs : 7\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDH au milieu de la diaphyse humérale.",
-              "https://zonekapp.com/tekAssets/troa_ms_bras_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_bras_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visibilité des articulations sus et sous-jacentes\n⬤ Palette humérale bien étalée et vue de profil\n⬤ Visibilité des contours des parties molles"
             ]
@@ -238,14 +238,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_coude_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_coude_1.png",
               "POSITION DU PATIENT :",
               "- Assis sur un siège bas devant la table radiologique, ou en décubitus dorsal,\n- Membres supérieurs en extension sur la table,\n- Main en supination\n- Epaule, coude et poignet sur le même plan horizontal\n- L’axe épicondyle – épitrochlée (EÉ) doit être parallèle au film",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 48 à 52\n⬤ mAs : 2 à 4\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV vise le milieu de l’interligne huméro-cubitale qui se trouve à 2 cm environ au-dessous du pli cutané.",
-              "https://zonekapp.com/tekAssets/troa_ms_coude_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_coude_2.png",
               "CRITERES DE REUSSITE :",
               "- L’interligne condyle –tête radiale visible\n- Sommet de l’olécrane au milieu de la fossette coronoïdienne."
             ]
@@ -253,14 +253,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_coude_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_coude_3.png",
               "POSITION DU PATIENT :",
               "- Assis comme pour la face\n- L’avant-bras fléchi à 135° (90° pour Clark)\n- Main en demi-pronation avec le pouce en l’air",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 48 à 52\n⬤ mAs : 2 à 4\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RD centré verticalement sur l’interligne à 1 cm environ au-dessous de l’épicondyle.",
-              "https://zonekapp.com/tekAssets/troa_ms_coude_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_coude_4.png",
               "CRITERES DE REUSSITE :",
               "- La cupule radiale empiète de moitié sur la coronoïde.\n- Superposition épitrochlée –épicondyle"
             ]
@@ -268,14 +268,14 @@
           {
             "title": "Laquerrière et Pierquin",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_coude_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_coude_5.png",
               "POSITION DU PATIENT :",
               "- Assis parallèlement à la table radiologique\n- L’avant-bras repose sur la table par sa face dorsale\n- Main en supination\n- Le coude repose sur la cassette par sa face postérieure.\n- Coude en flexion au maximum",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 48 à 52\n⬤ mAs : 2 à 4\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RDV ou légèrement incliné de l’arrière en avant et centré à 3 ou 4 cm au-dessus de la pointe de l’olécrane.",
-              "https://zonekapp.com/tekAssets/troa_ms_coude_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_coude_6.png",
               "CRITERES DE REUSSITE :",
               "- Bonne visualisation des interlignes articulaires radio-humérale et cubito-humérale.\n- Visibilité du bec de l’olécrane"
             ]
@@ -288,14 +288,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_avant_bras_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_avant_bras_1.png",
               "POSITION DU PATIENT :",
               "- Assis ou en décubitus dorsal,\n- Membres supérieurs en extension : bras et avant-bras étendus sur la table,\n- Avant-bras en supination, paume de la main en air.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 54\n⬤ mAs : 2 à 3\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RDV vise le milieu de l’avant-bras.",
-              "https://zonekapp.com/tekAssets/troa_ms_avant_bras_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_avant_bras_2.png",
               "CRITERES DE REUSSITE :",
               "- Palette humérale et poignet bien de face\n- Articulation du coude et du poignet compris sur le cliché."
             ]
@@ -303,14 +303,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_avant_bras_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_avant_bras_3.png",
               "POSITION DU PATIENT :",
               "- Assis ou en décubitus dorsal\n- Avant-bras fléchi à 135°\n- La main est strictement de profil.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 54\n⬤ mAs : 2 à 3\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RDV vise le milieu de l’avant-bras.",
-              "https://zonekapp.com/tekAssets/troa_ms_avant_bras_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_avant_bras_4.png",
               "CRITERES DE REUSSITE :",
               "- Palette humérale et poignet de profil\n- Articulation du coude et du poignet comprise dans le cliché."
             ]
@@ -323,14 +323,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_1.png",
               "POSITION DU PATIENT :",
               "- Sujet assis devant la table radiologique\n- Main en pronation ou légèrement fermée placée sur le film avec une légère déviation cubitale.\n- L’axe de l’avant-bras prolongé doit aboutir à l’articulation métacarpo-phalangienne du 2ème doigt.\n- Poignet doit être placé au milieu du film.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 52\n⬤ mAs : 2.5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RD vertical, vise le milieu de la ligne joignant les 2 extrémités des apophyses styloïdes.",
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_2.png",
               "CRITERES DE REUSSITE :",
               "- Le carpe vu de face\n- Interligne cubito-ulnaire bien enfilé"
             ]
@@ -338,14 +338,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_3.png",
               "POSITION DU PATIENT :",
               "- Malade assis comme pour la face\n- L’avant-bras et la main reposent sur la cassette par leur bord cubital,\n- Le dos de la main est placé dans l’alignement de l’avant-bras.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 52\n⬤ mAs : 2.5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RD vertical centré sur la pointe de l’apophyse styloïde radiale",
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_4.png",
               "CRITERES DE REUSSITE :",
               "- Les extrémités inférieures du radius et du cubitus sont superposées"
             ]
@@ -353,14 +353,14 @@
           {
             "title": "Incidence de Pisiforme",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_5.png",
               "POSITION DU PATIENT :",
               "- On doit placer le bord cubital de la main contre le film\n- On met la main en demi-supination et demiflexion",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 52\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- On se centre sur le pyramidal",
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_6.png",
               "CRITERES DE REUSSITE :",
               "- On doit voir l’interligne entre pyramidal et le pisiforme"
             ]
@@ -368,14 +368,14 @@
           {
             "title": "Schreck I (scaphoïde)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_7.png",
               "POSITION DU PATIENT :",
               "- Malade assis devant la table ;\n- Main en position d’écriture, doigts demi-fléchis\n- La main est en inclinaison cubitale, ce qui permet de dégager le scaphoïde",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 52\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RDV centré à un travers de doigt, en dessous et en dehors de l’apophyse styloïde radiale",
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_8.png",
               "CRITERES DE REUSSITE :",
               "- Bon dégagement du scaphoïde vue de face"
             ]
@@ -383,14 +383,14 @@
           {
             "title": "Schreck II (scaphoïde)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_9.png",
               "POSITION DU PATIENT :",
               "- Malade assis devant la table ;\n- Main en position d’écriture, doigts demi-fléchis\n- On soulève alors la face postérieure du poignet de 45° afin que le scaphoïde se dégage dans une position de profil.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 52\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RDV centré à 1 cm au-dessous de l’interligne radio-carpienne",
-              "https://zonekapp.com/tekAssets/troa_ms_poignet_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_poignet_10.png",
               "CRITERES DE REUSSITE :",
               "- Bon dégagement du scaphoïde vue de profil"
             ]
@@ -403,14 +403,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_main_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_1.png",
               "POSITION DU PATIENT :",
               "- Le sujet est assis ou en décubitus dorsal (DD)\n- L’avant-bras en entier sur la table en pronation\n- Paume de main appliquée sur la cassette, doigts légèrement écartés.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2.5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- RD verticale centré sur tête du 3ème métacarpien pour l’étude de la main.",
-              "https://zonekapp.com/tekAssets/troa_ms_main_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_2.png",
               "CRITERES DE REUSSITE :",
               "- 4 doigts de face, pouce vu de ¾\n- Les os du carpe\n- Espaces métacarpo-phalangiens et inter phalangiens enfilés\n- Styloïdes radiale et ulnaire"
             ]
@@ -418,14 +418,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_main_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_3.png",
               "POSITION DU PATIENT :",
               "- Assis en bout de table, genoux parallèles à la table\n- Coude fléchi à 90°, avant-bras sur son bord ulnaire\n- Main perpendiculaire à la table\n- Doigts allongés et superposés – Pouce écarté de l’axe de 45°, parallèle à la cassette",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2.5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "Rayon Directeur : vertical centré sur la tête du 2ème métacarpien",
-              "https://zonekapp.com/tekAssets/troa_ms_main_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_4.png",
               "CRITERES DE REUSSITE :",
               "- Superposition : 4 doigts / 5 métacarpiens\n- Pouce vu de face\n- Carpe vu de profil",
               "INTERET :",
@@ -435,14 +435,14 @@
           {
             "title": "Oblique",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_main_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_5.png",
               "POSITION DU PATIENT :",
               "- Assis comme pour la face\n- Main en appui cubital, le plan de la paume fait un angle de 45° avec la verticale\n- Doigt écarté en éventail",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2.5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- Rayon Directeur : vertical centré sur la tête du 3ème métacarpien",
-              "https://zonekapp.com/tekAssets/troa_ms_main_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_6.png",
               "CRITERES DE REUSSITE :",
               "- Carpe, 5 doigts et 5 métacarpiens vu de ¾\n- Interlignes des articulations métacarpo-phalangiennes visibles\n- Absence de superposition des phalanges et des métacarpiens"
             ]
@@ -450,14 +450,14 @@
           {
             "title": "Pouce Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_main_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_7.png",
               "POSITION DU PATIENT :",
               "- Sujet assis devant la table sur un tabouret\n- Bras et avant-bras sont allongés directement sur la table\n- La main est en pronation forcée\n- La paume de la main regarde en haut et en dehors.\n- L’autre main peut servir à écarter les doigts et à immobiliser la main à radiographier",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 45\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- Rayon Directeur : vertical centré sur l’articulation métacarpo-phalangienne du pouce",
-              "https://zonekapp.com/tekAssets/troa_ms_main_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_8.png",
               "CRITERES DE REUSSITE :",
               "- Interlignes de l’articulation inter-phalangienne et métacarpo-phalangienne dégagés"
             ]
@@ -465,14 +465,14 @@
           {
             "title": "Pouce Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_ms_main_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_9.png",
               "POSITION DU PATIENT :",
               "- Sujet assis comme pour la face\n- L’avant-bras et le bras sont en pronation\n- Le sujet pose la paume de la main sur la cassette\n- Pouce en abduction",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 45\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "- Rayon Directeur : vertical centré sur l’articulation métacarpo-phalangienne du pouce",
-              "https://zonekapp.com/tekAssets/troa_ms_main_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_ms_main_10.png",
               "CRITERES DE REUSSITE :",
               "- Interlignes de l’articulation inter-phalangienne et métacarpo-phalangienne dégagés\n- Phalange et métacarpien libres de toute superposition",
               "REMARQUE :",
@@ -489,14 +489,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_bassin_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_bassin_1.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est en décubitus dorsal\n⬤ L’axe du rachis est dans le prolongement de la symphyse pubienne\n⬤ Les talons sont écartés de 10 à 15 cm\n⬤ Les pointes des orteils sont au contact l’une de l’autre\n⬤ En apnée",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 30 à 40\n⬤ DFF : 1.20 m",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical est centré 2 cm au-dessus de la symphyse pubienne",
-              "https://zonekapp.com/tekAssets/troa_mi_bassin_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_bassin_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Avoir les crêtes iliaques en haut, et en bas la branche ischio-pubienne\n⬤ De face, les trous obturateurs sont symétriques\n⬤ Les cols fémoraux sont déroulés\n⬤ Le coccyx est au-dessus de la symphyse pubienne\n⬤ Les ailes iliaques et les grands trochanters doivent être explorables"
             ]
@@ -504,14 +504,14 @@
           {
             "title": "¾ Alaire",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_bassin_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_bassin_3.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est en décubitus dorsal\n⬤ Le côté opposé à celui à examiner est soulevé de 45° du plan de la table grâce à des coussins",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 25\n⬤ DFF : 1.20 m",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical est centré 4 cm au-dessus du milieu du pli inguinal",
-              "https://zonekapp.com/tekAssets/troa_mi_bassin_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_bassin_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ On doit voir l’aile iliaque en entier\n⬤ La cotyle de profil\n⬤ Fermeture du foramen obturé"
             ]
@@ -519,14 +519,14 @@
           {
             "title": "¾ Obturateur",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_bassin_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_bassin_5.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est en décubitus dorsal\n⬤ Le côté à examiner est soulevé de 45° du plan de la table grâce à des coussins",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 25\n⬤ DFF : 1.20 m",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical est centré 4 cm au-dessus du milieu du pli inguinal",
-              "https://zonekapp.com/tekAssets/troa_mi_bassin_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_bassin_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Foramen obturé bien ouvert\n⬤ Ilion en entier sur le cliché, vu de profil\n⬤ La cotyle de face"
             ]
@@ -539,14 +539,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_1.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal.\n⬤ Le membre inférieur concerné en extension et légère rotation médiale de 15°.\n⬤ En apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 20\n⬤ DFF : 1m.",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical est centré 2 cm au-dessus du milieu du pli inguinal.",
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Col fémoral bien déroulé.\n⬤ Grand trochanter bien dégagé sans dédoublement de sa corticale médiale.\n⬤ Petit trochanter barré par la corticale médiale de la diaphyse fémorale."
             ]
@@ -554,14 +554,14 @@
           {
             "title": "Urétrale + Ducroquet",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_3.png",
               "POSITION DU PATIENT :",
               "Urétrale :\n⬤ Décubitus dorsal\n⬤ La cuisse du coté à radiographier est en flexion et en abduction et repose sur la table, le talon doit être au niveau du genou du côté opposé\n⬤ Le bassin est tourné de 45° vers le côté à étudier\n⬤ La jambe opposée est allongée\n\nDucroquet :\n⬤ Position identique mais la cuisse forme un angle de 30° avec la table.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 20\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical est centré au milieu du pli inguinal.",
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ L’articulation coxo-fémorale est de profil et centrée sur le film\n⬤ L’interligne doit être visible\n⬤ Le grand trochanter est sur le col et déborde de part et d’autre\n⬤ Le petit trochanter est visible à la partie inféro-interne du col",
               "INTERET :",
@@ -571,14 +571,14 @@
           {
             "title": "Faux profil de Lequesne",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_5.png",
               "POSITION DU PATIENT :",
               "⬤ Debout, déchaussé.\n⬤ Placé d’abord de profil strict du côté concerné, avec la face latérale de la cuisse homolatérale contre le détecteur.\n⬤ Ensuite, le patient est placé en oblique postérieur de 65°.\n⬤ Les pieds réalisent un angle de 90°.\n⬤ En apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 20\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDH centré au milieu du pli inguinal controlatéral (la hanche opposée).",
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ On doit avoir une verticalité du col fémoral et de la diaphyse fémorale\n⬤ Les 2 têtes doivent être sur le même cliché espacées de 2 à 3 travers de doigts\n⬤ Le grand trochanter est sur la diaphyse fémorale",
               "INTERET :",
@@ -588,14 +588,14 @@
           {
             "title": "Profil d’Arcelin",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_7.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal\n⬤ Le membre inférieur à radiographier est en extension\n⬤ La rotule est au zénith\n⬤ La cuisse opposée est fléchie à 90° sur l’abdomen\n⬤ Cheville reposant sur un étrier.\n⬤ Détecteur placé verticalement contre le flanc du malade et disposé parallèlement au col fémoral",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 20\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDH centré sur la racine de la cuisse. Il y a un angle de 40 à 45° avec le membre à explorer",
-              "https://zonekapp.com/tekAssets/troa_mi_hanche_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_hanche_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Tête et col fémoral de profil.",
               "INTERET :",
@@ -610,14 +610,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_femur_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_femur_1.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal.\n⬤ Le membre inférieur en extension.\n⬤ Patella au zénith (si possible)",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 60\n⬤ mAs : 20\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ On réalise deux centrages en raison de la taille limitée des détecteurs :\n  o Premier cliché : un travers de main au-dessus du milieu de la cuisse\n  o Second cliché : un travers de main en dessous du milieu de la cuisse.",
-              "https://zonekapp.com/tekAssets/troa_mi_femur_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_femur_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visualisation de l’ensemble du fémur de face.\n⬤ Les interlignes coxofémoral et fémorotibial sont visibles."
             ]
@@ -625,14 +625,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_femur_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_femur_3.png",
               "POSITION DU PATIENT :",
               "⬤ Il est externe. Le patient est en décubitus latéral du côté à radiographier.\n⬤ Légère flexion de la jambe.\n⬤ La partie supérieure du fémur est masquée si la jambe opposée est en avant.\n⬤ Si la jambe opposée est en arrière, on risque de réaliser un ¾.\n⬤ La cuisse est de profil strict.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 60\n⬤ mAs : 20\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV est centré au milieu du fémur",
-              "https://zonekapp.com/tekAssets/troa_mi_femur_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_femur_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ On doit voir la diaphyse fémorale.\n⬤ On doit voir l’articulation du genou de profil.\n⬤ Les condyles fémoraux sont superposés."
             ]
@@ -645,14 +645,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_genou_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_1.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal.\n⬤ Membre inférieur en extension et en rotation médiale modérée.\n⬤ Patella au zénith",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical ou incliné vers les pieds de 5° et centré sur l’apex de la patella.\n⬤ Potter ou en direct",
-              "https://zonekapp.com/tekAssets/troa_mi_genou_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Projection correcte des plateaux tibiaux\n⬤ La rotule est centrée au milieu des 2 condyles et doit se projeter au-dessus de l’interligne articulaire\n⬤ Bon dégagement des interlignes fémorotibiaux."
             ]
@@ -660,14 +660,14 @@
           {
             "title": "Face en charge",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_genou_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_3.png",
               "POSITION DU PATIENT :",
               "⬤ Debout déchaussé.\n⬤ Membre inférieur en extension et en rotation médiale modérée.\n⬤ Patella au zénith",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ Il est descendant de 5° environ.\n⬤ Il est centré 1 cm au-dessous de la pointe de la rotule",
-              "https://zonekapp.com/tekAssets/troa_mi_genou_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Projection correcte des plateaux tibiaux\n⬤ La rotule est centrée au milieu des 2 condyles et doit se projeter au-dessus de l’interligne articulaire\n⬤ Bon dégagement des interlignes fémorotibiaux.",
               "INTERET :",
@@ -677,14 +677,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_genou_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_5.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus latéral du côté concerné.\n⬤ Genou en flexion modérée.\n⬤ Le membre inférieur controlatéral positionné en avant.\n⬤ Le talon légèrement surélevé.\n⬤ Palper avec le pouce et l’index les bords latéral et médial de la patella pour positionner le genou de profil.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD vertical, inclinaison podo-crâniale de 5° à 10° (vers la tête)\n⬤ Il est centré 1 cm en arrière du tendon rotulien",
-              "https://zonekapp.com/tekAssets/troa_mi_genou_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bon dégagement des interlignes fémoro-tibial et fémoro-patellaire\n⬤ Superposition des condyles fémoraux latéral et médial"
             ]
@@ -692,14 +692,14 @@
           {
             "title": "Schuss",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_genou_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_7.png",
               "POSITION DU PATIENT :",
               "⬤ Procubitus.\n⬤ Genou fléchi de 30° à 40°.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné vers les pieds de 30° et centré au milieu du creux poplité.",
-              "https://zonekapp.com/tekAssets/troa_mi_genou_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bon dégagement de l’échancrure inter-condylienne et des épines tibiales.",
               "INTERET :",
@@ -709,14 +709,14 @@
           {
             "title": "Défilé fémoro-patellaire",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_genou_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_9.png",
               "POSITION DU PATIENT :",
               "⬤ Le sujet est assis.\n⬤ Le dos est maintenu.\n⬤ Les genoux sont fléchis à 30° ou 60°.\n⬤ La cassette est maintenue sur la face antérieure des fémurs par le patient.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65\n⬤ mAs : 5\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ Il est en général ascendant.\n⬤ Il est parallèle à la face postérieure de la rotule (repérée à la palpation).",
-              "https://zonekapp.com/tekAssets/troa_mi_genou_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_genou_10.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bon dégagement des interlignes fémoropatellaire.",
               "INTERET :",
@@ -731,14 +731,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_jambe_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_jambe_1.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est jambe nue et en extension\n⬤ Il est en décubitus dorsal, et mollet sur la cassette\n⬤ Le pied est légèrement en rotation interne afin que la rotule soit au zénith",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 4\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré au milieu de la jambe.\n⬤ Cassette 36/43 en diagonale.",
-              "https://zonekapp.com/tekAssets/troa_mi_jambe_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_jambe_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Les deux os de la jambe compris sur le cliché, avec les interlignes articulaires sus-jacent et sous-jacent.\n⬤ Genou et cheville de face."
             ]
@@ -746,14 +746,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_jambe_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_jambe_3.png",
               "POSITION DU PATIENT :",
               "⬤ Il est externe\n⬤ Le patient est en décubitus latéral du coté à radiographier\n⬤ Le genou est fléchi\n⬤ La jambe est de profil\n⬤ La jambe opposée est en avant\n⬤ On peut mettre une cale sous le genou opposé pour que la position soit plus confortable",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 4\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré au milieu de la jambe.\n⬤ Cassette 36/43 en diagonale.",
-              "https://zonekapp.com/tekAssets/troa_mi_jambe_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_jambe_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Les deux os de la jambe compris sur le cliché, avec les interlignes articulaires sus-jacent et sous-jacent.\n⬤ Genou et cheville de profil.\n⬤ La diaphyse du péroné se trouve en arrière de celle du tibia"
             ]
@@ -766,14 +766,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_cheville_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_cheville_1.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est en décubitus dorsal\n⬤ On effectue une légère rotation interne afin que l’axe du talon passe par le 4ème orteil\n⬤ Le plan bi-malléolaire est alors parallèle au plan du film",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré au milieu de la cheville à 1 cm au-dessus de la malléole interne",
-              "https://zonekapp.com/tekAssets/troa_mi_cheville_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_cheville_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ L’axe du tibia passe par le milieu de l’astragale\n⬤ Bon dégagement de l’interligne talofibulaire et du versant latéral du dôme talien.\n⬤ La superposition du tibia et du péroné au niveau de l’articulation péronéo-tibiale inférieure est normale\n⬤ Bonne visualisation de la malléole latérale."
             ]
@@ -781,14 +781,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_cheville_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_cheville_3.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus latéral du côté concerné\n⬤ Le membre inférieur est en extension\n⬤ Le pied est stabilisé par une cale sous son bord latéral.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré au milieu de la cheville à 1 cm au-dessus de la pointe de la malléole médiale",
-              "https://zonekapp.com/tekAssets/troa_mi_cheville_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_cheville_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Aspect arrondi de la poulie talienne, non dédoublée.\n⬤ Superposition des malléoles latérale et médiale."
             ]
@@ -796,14 +796,14 @@
           {
             "title": "Oblique",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_cheville_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_cheville_5.png",
               "POSITION DU PATIENT :",
               "¾ INTERNE :\n⬤ Décubitus dorsal, membre inférieur en extension.\n⬤ Rotation médiale de la cheville : obliquité de la ligne bimalléolaire de 45°.\n⬤ Soulever les fesses.\n⬤ Éviter la flexion plantaire\n¾ EXTERNE\n⬤ C’est la même position mais le pied effectue une rotation externe de 45°",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "¾ INTERNE : RDV centré à 2 cm au-dessus de la malléole latérale.\n¾ EXTERNE : RDV centré à 1 cm au-dessus de la malléole médiale.",
-              "https://zonekapp.com/tekAssets/troa_mi_cheville_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_cheville_6.png",
               "CRITERES DE REUSSITE :",
               "¾ INTERNE : On doit voir l’interligne péronéo-tibiale bien dégagée de toutes superpositions\n¾ EXTERNE : On doit voir l’interligne astragalo-tibiale"
             ]
@@ -816,14 +816,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_1.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est assis ou en décubitus dorsal\n⬤ Le genou est fléchi\n⬤ Le pied repose à plat sur la cassette\n⬤ Les orteils sont bien séparés (interposition de compresses si nécessaire)",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD Incliné de 15° centré au niveau de la base du deuxième espace métatarsien.",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ On doit voir l’ensemble du pied\n⬤ On doit voir la corticale, la médullaire et les parties molles"
             ]
@@ -831,14 +831,14 @@
           {
             "title": "Profil en charge",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_3.png",
               "POSITION DU PATIENT :",
               "⬤ Debout en charge, déchaussé.\n⬤ En appui monopodal sur le pied concerné.\n⬤ La face latérale du pied contre le détecteur.\n⬤ Le pied controlatéral repose sur sa pointe pour une plus grande stabilité.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDH vise la base du premier métatarsien",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Pied en charge de profil strict: aspect arrondi non dédoublé du dôme talien.\n⬤ On doit voir le sinus du tarse pour être sûr que le pied est de profil"
             ]
@@ -846,14 +846,14 @@
           {
             "title": "Oblique externe",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_5.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal.\n⬤ Genou fléchi.\n⬤ Face plantaire du pied contre la plaque.\n⬤ On surélève le bord latéral du pied d’environ 45°.\n⬤ Les orteils sont bien séparés.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV au niveau de la base du troisième métatarsien.",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bonne visualisation des métatarsiens, notamment du cinquième avec sa tubérosité.\n⬤ Visualisation de l’ensemble du squelette du pied."
             ]
@@ -861,14 +861,14 @@
           {
             "title": "Calcanéus face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_7.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal, le membre inférieur concerné en extension.\n⬤ Pied en flexion dorsale maximale.\n⬤ On peut s’aider d’une sangle.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RD incliné podo-cranial de 40° à 50° au niveau du bord supérieur du talon",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Calcanéus en entier avec les articulations sous-taliennes antérieure et postérieure.\n⬤ Visualisation de la totalité du coussinet graisseux plantaire."
             ]
@@ -876,14 +876,14 @@
           {
             "title": "Calcanéus de profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_9.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus latéral du côté à analyser.\n⬤ Un coussin est placé sous le genou, qui est légèrement fléchi.\n⬤ Cheville de profil.\n⬤ Le pied repose sur son bord latéral en flexion dorsale de 90°.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré à deux travers de doigt sous la pointe de la malléole médiale.",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_10.png",
               "CRITERES DE REUSSITE :",
               "⬤ Calcanéus de profil en entier.\n⬤ Visualisation de la totalité du coussinet graisseux plantaire."
             ]
@@ -891,14 +891,14 @@
           {
             "title": "Orteil de profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_11.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_11.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus latéral le pied reposant sur son bord médial.\n⬤ Genou fléchi.\n⬤ Une compresse est pliée entre l’hallux et le deuxième orteil.\n⬤ Les quatre derniers orteils sont fléchis.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré sur le gros orteil.",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_12.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_12.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visualisation de la tête métatarsienne et des deux phalanges (proximale et distale)"
             ]
@@ -906,14 +906,14 @@
           {
             "title": "Sésamoïde",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_13.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_13.png",
               "POSITION DU PATIENT :",
               "⬤ Patient à genou.\n⬤ Les orteils sont en flexion dorsale maximale.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV au niveau de la tête du premier métatarsien.",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_14.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_14.png",
               "CRITERES DE REUSSITE :",
               "⬤ Dégagement de l’interligne céphalosésamoïdien.\n⬤ Dégagement du rostre du premier métatarsien."
             ]
@@ -921,14 +921,14 @@
           {
             "title": "Lisfranc",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/troa_mi_pied_15.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_15.png",
               "POSITION DU PATIENT :",
               "⬤ Procubitus ou à genou.\n⬤ Le pied repose sur sa face dorsale.\n⬤ Le talon est incliné latéralement de 25°.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 50\n⬤ mAs : 2\n⬤ DFF : 1m",
               "RAYON DIRECTEUR :",
               "⬤ RDV centré au milieu de la face plantaire.",
-              "https://zonekapp.com/tekAssets/troa_mi_pied_16.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/troa_mi_pied_16.png",
               "CRITERES DE REUSSITE :",
               "⬤ Dégagement de l’interligne tarsométatarsien"
             ]
@@ -943,14 +943,14 @@
           {
             "title": "Face PA",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_1.png",
               "POSITION DU PATIENT :",
               "⬤ Debout en P/A.\n⬤ Torse nu, pas de collier, cheveux relevés sur la tête.\n⬤ Les deux mains reposent par leur face postérieure sur les fesses.\n⬤ Les coudes en avant pour dégager les omoplates des champs pulmonaires.\n⬤ Cliché réaliser en apnée après une inspiration forcée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 100 à 120.\n⬤ mAs : 3.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH vise la région inter-scapulaire médiane à la hauteur D5-D6",
-              "https://zonekapp.com/tekAssets/trv_thorax_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Position symétrique des clavicules par rapport à la ligne des épineuses.\n⬤ Position médiane de la trachée.\n⬤ Dégagement des omoplates.\n⬤ Présence de la poche à air gastrique.\n⬤ Visibilité des 4 premières vertèbres dorsales."
             ]
@@ -958,14 +958,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_3.png",
               "POSITION DU PATIENT :",
               "⬤ Debout en inspiration.\n⬤ Bras croisés au-dessus de la tête (bras en contact avec les oreilles).\n⬤ Profil strict, Plan sagittal médian parallèle au RI.\n⬤ Le cliché pris en inspiration forcée et en apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 100 à 120.\n⬤ mAs : 3.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH vise la ligne axillaire moyenne (au niveau de D5)",
-              "https://zonekapp.com/tekAssets/trv_thorax_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Le cliché de profil est respecté si le sternum est vu de profil et les côtes bien espacées.\n⬤ L’inspiration est bien réalisée si les culs de sac postérieurs sont bien distingués et clairs et la coupole diaphragmatique droite visualisée sous la 6ème côte.\n⬤ La coupole Droite est celle qui est suivie de bout à bout.\n⬤ La coupole Gauche n’est plus suivie dans son 1/3 antérieur car le cœur s’appuie sur elle."
             ]
@@ -973,14 +973,14 @@
           {
             "title": "Oblique (OAD)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_5.png",
               "POSITION DU PATIENT :",
               "⬤ Debout, tourné de 45° vers la gauche.\n⬤ Apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 100 à 120.\n⬤ mAs : 3.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH en regard D5 en rasant le bord spinal de l’omoplate Gauche.",
-              "https://zonekapp.com/tekAssets/trv_thorax_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Étude du parenchyme pulmonaire et des côtes"
             ]
@@ -988,14 +988,14 @@
           {
             "title": "Oblique (OAG)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_7.png",
               "POSITION DU PATIENT :",
               "⬤ Debout, tourné de 60° vers la droite.\n⬤ Apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 100 à 120.\n⬤ mAs : 3.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH en regard D5 en rasant le bord spinal de l’omoplate Gauche",
-              "https://zonekapp.com/tekAssets/trv_thorax_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Étude du coeur."
             ]
@@ -1003,14 +1003,14 @@
           {
             "title": "Lordose AP",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_9.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est en antéro-postérieur.\n⬤ Il est debout.\n⬤ Il doit avancer les pieds.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 100 à 120.\n⬤ mAs : 3.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH 10–12 cm au-dessous de l’incisure jugulaire (fourchette sternale).",
-              "https://zonekapp.com/tekAssets/trv_thorax_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_10.png",
               "CRITERES DE REUSSITE :",
               "⬤ Champs pulmonaires en totalité.\n⬤ Les clavicules doivent se projeter au-dessus des apex."
             ]
@@ -1018,14 +1018,14 @@
           {
             "title": "Sternum profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_11.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_11.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient debout de profil strict.\n⬤ Les épaules rejetées en arrière.\n⬤ Les mains croisées derrière le dos.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 70.\n⬤ mAs : 15 à 20.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH au milieu du sternum.",
-              "https://zonekapp.com/tekAssets/trv_thorax_12.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_12.png",
               "CRITERES DE REUSSITE :",
               "⬤ Sternum vue de profil strict"
             ]
@@ -1033,14 +1033,14 @@
           {
             "title": "Thorax Osseux",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_thorax_13.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_13.png",
               "POSITION DU PATIENT :",
               "⬤ Debout en P/A.\n⬤ Torse nu, pas de collier, cheveux relevés sur la tête.\n⬤ Les deux mains reposent par leur face postérieure sur les fesses.\n⬤ Les coudes en avant pour dégager les omoplates des champs pulmonaires.\n⬤ Cliché réaliser en apnée après une inspiration forcée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 70.\n⬤ mAs : 8 à 16.\n⬤ DFF : 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH vise la région inter-scapulaire médiane à la hauteur D5-D6",
-              "https://zonekapp.com/tekAssets/trv_thorax_14.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_thorax_14.png",
               "CRITERES DE REUSSITE :",
               "⬤ Bon dégagement des cotes.\n⬤ Bon contraste osseux.\n⬤ Absence de flou cinétique."
             ]
@@ -1053,14 +1053,14 @@
           {
             "title": "Face AP",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_asp_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_asp_1.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout en A/P.\n⬤ Tête droite.\n⬤ Les membres sup allongés en légère abduction.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 70.\n⬤ mAs : 30.\n⬤ DFF : 1 à 1,20m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH vise le milieu bi-crête de la ligne joignant les sommets des crêtes iliaques.",
-              "https://zonekapp.com/tekAssets/trv_asp_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_asp_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visibilité des coupoles diaphragmatiques en haut Le cliché doit contenir les coupoles et la symphyse pubienne en bas."
             ]
@@ -1068,14 +1068,14 @@
           {
             "title": "FACE centré sur les coupoles",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_asp_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_asp_3.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout en A/P.\n⬤ Tête droite.\n⬤ Les membres sup allongés en légère abduction.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 70.\n⬤ mAs : 30.\n⬤ DFF : 1 à 1,20m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH centré sur l’appendice xiphoïde",
-              "https://zonekapp.com/tekAssets/trv_asp_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_asp_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Recherche d’un pneumopéritoine."
             ]
@@ -1083,14 +1083,14 @@
           {
             "title": "PROFIL",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/trv_asp_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_asp_5.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout ou en décubitus.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 80.\n⬤ mAs : 40 à 50.\n⬤ DFF : 1 à 1,20m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH vise la crête iliaque.",
-              "https://zonekapp.com/tekAssets/trv_asp_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/trv_asp_6.png",
               "CRITERES DE REUSSITE :",
               "- Ce cliché permet de mettre en évidence :\n⬤ Les IHA.\n⬤ Les épanchements gazeux intra-abdominaux :\n- Il renseigne sur :\n⬤ L’état du Rachis dorsolombaire.\n- Il permet de localiser (antérieur ou postérieur) :\n⬤ Un corps étranger.\n⬤ Une masse calcifiée spontanément visible sur ASP de face."
             ]
@@ -1105,14 +1105,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_cervical_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_1.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est assis ou debout.\n⬤ La tête est en légère déflexion.\n⬤ Les épaules sont tombantes.\n⬤ La cassette déborde au-dessous des épaules.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 70.\n⬤ mAs : 20 à 25.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "-RDH est centré sur C4 (milieu de la ligne passant par le maxillaire inférieur et l’épaule)",
-              "https://zonekapp.com/tekAssets/rachis_cervical_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ On doit voir de C1 à C7.\n⬤ On doit voir les parties molles.\n⬤ Le bord postérieur des corps doit être superposé, donc non dédoublé.\n⬤ Superposition des angles de la mandibule."
             ]
@@ -1120,14 +1120,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_cervical_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_3.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout ou assis en antéropostérieur.\n⬤ La tête est droite.\n⬤ Le menton est en légère déflexion.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 70.\n⬤ mAs : 20 à 25.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RD ascendant de 15°à 20° (pour enfiler au mieux les disques) vise C4, centré sur le cartilage thyroïde (pomme d’Adam)",
-              "https://zonekapp.com/tekAssets/rachis_cervical_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Position médiane de la ligne des épineuses.\n⬤ Position médiane de la trachée.\n⬤ Position symétrique du maxillaire inférieur.\n⬤ Bonne visibilité des disques intervertébraux de C3C4 à C7D1."
             ]
@@ -1135,14 +1135,14 @@
           {
             "title": "Face (Bouche ouverte)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_cervical_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_5.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout, tête de face.\n⬤ Occiput contre le portique.\n⬤ Bouche ouverte au maximum.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 70.\n⬤ mAs : 20 à 25.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D.H médian centré aux ras des incisives supérieures",
-              "https://zonekapp.com/tekAssets/rachis_cervical_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Odontoïde et épineuse de l’axis dans le plan sagittal médian.\n⬤ Bon dégagement de l’odontoïde et des articulations atlantoaxoïdienne latérales."
             ]
@@ -1150,14 +1150,14 @@
           {
             "title": "DORLAND",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_cervical_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_7.png",
               "POSITION DU PATIENT :",
               "⬤ Patient en Décubitus Dorsale.\n⬤ Épaules bien à plat.\n⬤ Tête en hyperextention en absence de traumatisme cervical sévère si non tête droite.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 70.\n⬤ mAs : 20 à 25.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D descendant de 20° à 25°, centré sur le cartilage thyroïde",
-              "https://zonekapp.com/tekAssets/rachis_cervical_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_8.png",
               "CRITERES DE REUSSITE :",
               "⬤ Les interlignes interarticulaires bien enfilées en effaçant les corps vertébraux.\n⬤ Bon dégagement bilatéral des apophyses articulaires.",
               "INTERET :",
@@ -1167,14 +1167,14 @@
           {
             "title": "Oblique",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_cervical_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_9.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout ou assis en antéro/postérieur en faisant un angle de 45° avec le plan de l’examen.\n⬤ La tête est droite et légèrement défléchie.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 70.\n⬤ mAs : 20 à 25.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D incliné de 20° vers le haut vise la pomme d’Adam (cartilage thyroïde)",
-              "https://zonekapp.com/tekAssets/rachis_cervical_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_10.png",
               "CRITERES DE REUSSITE :",
               "⬤ Dégagement des trous de conjugaison à tous les niveaux depuis C2 C3 jusqu’à C7D1",
               " ➤ O.P.D : on voit les T.G gauches.\n ➤ O.P.G : on voit les T.G droites.\n ➤ O.A.D : on voit les T.G droites.\n ➤ O.A.G : on voit les T.G gauches."
@@ -1183,14 +1183,14 @@
           {
             "title": "Flexion/Extension",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_cervical_11.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_11.png",
               "POSITION DU PATIENT :",
               "⬤ Position en hyper flexion : dans la même position initiale que pour le profil d’ensemble, mais le patient fléchit son cou au maximum, sans aide et sans dépasser le seuil douloureux.\n\n⬤ Position en hyper extension : même manœuvre en extension sans modifier le centrage.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 70.\n⬤ mAs : 20 à 25.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D.H vise C4.",
-              "https://zonekapp.com/tekAssets/rachis_cervical_12.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_cervical_12.png",
               "Intérêt :",
               "⬤ Recherche d’une entorse grave (segment cervical hypermobile).\n⬤ Recherche d’un bloc fonctionnel.\n⬤ Évaluer la mobilité d’une prothèse discale."
             ]
@@ -1203,14 +1203,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_dorsal_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_dorsal_1.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient debout ou DD.\n⬤ Dos contre plaque, appui symétrique des membres inférieurs.\n⬤ Pieds nus.\n⬤ Bras allongé le long du cœur + apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 75.\n⬤ mAs : 20 à 50.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH centré à Mi-distance entre l’incisure jugulaire du sternum et le processus xiphoïde.",
-              "https://zonekapp.com/tekAssets/rachis_dorsal_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_dorsal_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visualisation de l’ensemble des pièces dorsales.\n⬤ Dégagement des espaces discaux du rachis thoracique moyen.\n⬤ Les processus épineux se projettent sur la ligne médiane.\n⬤ Symétrie des pédicules."
             ]
@@ -1218,14 +1218,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_dorsal_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_dorsal_3.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient debout de profil ou Décubitus latérale.\n⬤ Droit ou gauche. En cas de scoliose, on pratique le profil du côté de la scoliose afin d’aborder le rachis par la concavité.\n⬤ Les avant-bras croisés en pronation forcée, dirigés vers le bas. Ceci permet d’effacer les épaules vers l’avant sans provoquer l’hypercyphose.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 75.\n⬤ mAs : 20 à 50.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ RDH centré à 2 travers de doigt au-dessous de pli des aisselles et à 4 travers de doigt an avant du plan dorsal postérieur.",
-              "https://zonekapp.com/tekAssets/rachis_dorsal_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_dorsal_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Aspect linéaire du mur postérieur et des plateaux vertébraux.\n⬤ Bon dégagement des foramens intervertébraux."
             ]
@@ -1238,14 +1238,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_lombaire_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_1.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout en profil strict.\n⬤ Pieds nus bien stables symétriques.\n⬤ Membres inférieurs en extension.\n⬤ Bras croisés sur la poitrine, mains sur les épaules afin de respecter la lordose physiologique.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 75 à 80.\n⬤ mAs : 30 à 50.\n⬤ DFF : 1m à 1.50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D.H centré à deux travers de doigt au-dessus de la crête iliaque.",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Superposition parfaite des bords postérieurs des corps vertébraux (mûrs postérieurs).\n⬤ Espaces intervertébrales bien visibles.\n⬤ Bon étalement des arcs postérieurs avec superposition des parties droit et gauche."
             ]
@@ -1253,14 +1253,14 @@
           {
             "title": "Face",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_lombaire_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_3.png",
               "POSITION DU PATIENT :",
               "⬤ Patient debout en rectitude, pieds nus et légèrement écartés.\n⬤ Appui symétrique.\n⬤ Membres inferieurs en extension.\n⬤ Bras pendants le long du corps.\n⬤ Dos contre le portique.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 75 à 80.\n⬤ mAs : 30 à 50.\n⬤ DFF : 1m à 1.50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D.H. centré sur la ligne médiane à deux travers de doigt au dessus de la ligne bi crête.",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Critères photographiques.\n⬤ Aspect linéaire des plateaux vertébraux.\n⬤ Interlignes intervertébrales bien visibles jusqu’à L4 et L5.\n⬤ Pédicules symétriques et à même distance de la ligne médiane."
             ]
@@ -1268,16 +1268,16 @@
           {
             "title": "Oblique",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_lombaire_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_5.png",
               "POSITION DU PATIENT :",
               "⬤ Patient en station verticale.\n⬤ Membres inférieurs en extension.\n⬤ Bras croisés sur la poitrine, mains sur les épaules.\n⬤ Côté à radiographier contre le plan d’examen, côté opposé s’en écarte jusqu'à ce que le plan dorsal du patient fasse un angle de 30° à 45°.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 75 à 80.\n⬤ mAs : 30 à 50.\n⬤ DFF : 1m à 1.50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D.H. centré à 3 travers de doigts au-dessus de l’épine iliaque antéro-supérieure du coté éloigné du plan d’examen (EIAS).",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_6.png",
               "CRITERES DE REUSSITE :",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_7.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_7.png",
               "⬤ L’image classique des (petits chiens) de la chapelle.",
               " ☛ Œil : pédicule.\n ☛ Oreille : apophyse articulaire supérieure.\n ☛ Museau : apophyse transverse.\n ☛ Cou : isthme.\n ☛ Patte antérieure : apophyse articulaire inférieure.\n ☛ Corps : lame vertébrale."
             ]
@@ -1285,14 +1285,14 @@
           {
             "title": "Charnière lombo-sacrée (Face)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_lombaire_8.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_8.png",
               "POSITION DU PATIENT :",
               "⬤ Le patient est positionné comme pour une face normale.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 75 à 80.\n⬤ mAs : 30 à 50.\n⬤ DFF : 1m à 1.50m.",
               "RAYON DIRECTEUR :",
               "⬤ R.D ascendant de 20° à 30° (selon l’angle calculé sur le profil) centré sur la ligne unissant les EIAS Sur la ligne médiane.",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_9.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_9.png",
               "CRITERES DE REUSSITE :",
               "⬤ Interligne L5-S1 bien dégagée, régulière et symétrique.\n⬤ Aspect quadrangulaire de L5.",
               "INDICATION :",
@@ -1302,14 +1302,14 @@
           {
             "title": "Charnière lombo-sacrée (Profil)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_lombaire_10.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_10.png",
               "POSITION DU PATIENT :",
               "⬤ Patient dans la même position que pour le profil lombaire d’ensemble.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 75 à 80.\n⬤ mAs : 30 à 50.\n⬤ DFF : 1m à 1.50m.",
               "RAYON DIRECTEUR :",
               "R.D.H. centré à 2 travers de doigts au-dessous de la crête iliaque.",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_11.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_11.png",
               "CRITERES DE REUSSITE :",
               "⬤ Disque L5-S1 parfaitement enfilé."
             ]
@@ -1317,14 +1317,14 @@
           {
             "title": "De Desèze (Débrouillage)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_lombaire_12.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_12.png",
               "POSITION DU PATIENT :",
               "⬤ Position debout, pieds nus, en appui symétrique.\n⬤ Membres inferieurs en extension.\n⬤ Ventre contre le plan d’examen.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 75 à 80.\n⬤ mAs : 40 à 50.\n⬤ DFF : 1m à 1.50m.",
               "RAYON DIRECTEUR :",
               "R.D.H. vise la ligne médiane, 2 à 3 cm au-dessus de la ligne bi-crête vise L3",
-              "https://zonekapp.com/tekAssets/rachis_lombaire_13.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_lombaire_13.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visibilité de d11 et D12 en haut, la symphyse pubienne et une partie des coxo- fémorales en bas.",
               "INTERET :",
@@ -1339,14 +1339,14 @@
           {
             "title": "Profil",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_sacrum_1.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_sacrum_1.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus latéral.\n⬤ Genoux en légère flexion.\n⬤ En apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 75.\n⬤ mAs : 20 à 50.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ Pour le Sacrum : 5 cm en avant de EIPI (mi-distance entre la charnière LS et le coccyx).\n⬤ Pour le coccyx : 2 travers de main sous la crête iliaque.",
-              "https://zonekapp.com/tekAssets/rachis_sacrum_2.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_sacrum_2.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visualisation de l’ensemble du sacrum, depuis la charnière lombosacrée jusqu’au coccyx.\n⬤ Visualisation de l’ensemble des pièces coccygiennes avec l’articulation sacrococcygienne."
             ]
@@ -1354,14 +1354,14 @@
           {
             "title": "Face (sacrum)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_sacrum_3.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_sacrum_3.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal.\n⬤ Membres inférieurs modérément fléchis (pour réduire la lordose lombaire).\n⬤ Membres supérieurs croisés sur le thorax.\n⬤ En apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 75.\n⬤ mAs : 20 à 50.\n⬤ DFF : 1m à 1,5.",
               "RAYON DIRECTEUR :",
               "⬤ Inclinaison podocraniale de 20° à 30°. À adapter selon l’inclinaison de la charnière sur le cliché de profil (à réaliser en premier).\n⬤ Quatre travers de doigts sous les crêtes iliaques, sur la ligne médiane.",
-              "https://zonekapp.com/tekAssets/rachis_sacrum_4.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_sacrum_4.png",
               "CRITERES DE REUSSITE :",
               "⬤ Visualisation de l’ensemble du sacrum. \n⬤ Les processus épineux se projettent sur la ligne médiane."
             ]
@@ -1369,14 +1369,14 @@
           {
             "title": "Face (coccyx)",
             "paragraph": [
-              "https://zonekapp.com/tekAssets/rachis_sacrum_5.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_sacrum_5.png",
               "POSITION DU PATIENT :",
               "⬤ Décubitus dorsal.\n⬤ Genou en légère flexion.\n⬤ En apnée.",
               "PARAMETRES RADIOLOGIQUES :",
               "⬤ KV : 65 à 75.\n⬤ mAs : 20 à 50.\n⬤ DFF : 1m à 1,50m.",
               "RAYON DIRECTEUR :",
               "⬤ Inclinaison craniopodale de 10° à 20° centré au niveau du Bord supérieur de la symphyse pubienne.",
-              "https://zonekapp.com/tekAssets/rachis_sacrum_6.png",
+              "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/rachis_sacrum_6.png",
               "CRITERES DE REUSSITE :",
               "⬤ Vue de coccyx libre de toute superposition.\n⬤ Visualisation de l’ensemble des vertèbres coccygiennes avec l’articulation sacrococcygienne."
             ]
@@ -1388,14 +1388,14 @@
       {
         "title": "Profil",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_1.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_1.png",
           "POSITION DU PATIENT :",
           "⬤ Patient est debout ou assis de profil strict\n⬤ Il est en appui auriculo-temporal droit ou gauche.\n⬤ Le plan S est parallèle au film.\n⬤ Le plan OM est horizontal.",
           "PARAMETRES RADIOLOGIQUES :",
           "⬤ KV : 64.\n⬤ mAs : 30.\n⬤ DFF : 1m.",
           "RAYON DIRECTEUR :",
           "⬤ Il est centré 3 cm au-dessus du CAE dans le plan frontal bi-auriculaire et perpendiculaire à la cassette.",
-          "https://zonekapp.com/tekAssets/neuron_2.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_2.png",
           "CRITERES DE REUSSITE :",
           "⬤ On doit voir l’ensemble du crâne.\n⬤ Superposition du toit des orbites\n⬤ Superposition des CAE.\n⬤ Superposition des branches montantes du maxillaire \n⬤ Superposition des grandes ailes du sphénoïde.\n⬤ Superposition des apophyses clinoïdes antérieures et postérieure.\n"
         ]
@@ -1403,14 +1403,14 @@
       {
         "title": "Face Haute",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_3.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_3.png",
           "POSITION DU PATIENT :",
           "⬤ Patient est assis ou debout.\n⬤ Il est en appui Front-Nez.\n⬤ Le plan OM est horizontal.\n⬤ C’est une incidence postéro-antérieure.\n⬤ Le plan S est perpendiculaire au film (S=0°).",
           "PARAMETRES RADIOLOGIQUES :",
           "⬤ KV : 65.\n⬤ mAs : 25.\n⬤ DFF : 1m.",
           "RAYON DIRECTEUR :",
           "⬤Il est centré sur le Nasion, et incliné de 25° vers les pieds.",
-          "https://zonekapp.com/tekAssets/neuron_4.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_4.png",
           "RITERES DE REUSSITE :",
           "⬤ On doit voir l’ensemble du crâne et du massif facial.\n⬤ L’apophyse orbitaire externe du malaire et la limite externe des fosses temporales sont à égale distance des 2 cotés.\n⬤ Le bord supérieur des rochers est superposé au plancher de l’orbite.",
           "INTERET :",
@@ -1420,14 +1420,14 @@
       {
         "title": "Face basse",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_5.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_5.png",
           "POSITION DU PATIENT :",
           "⬤ Patient assis ou debout en PA.\n⬤ En appui front-nez-plaque.\n⬤ Tragus équidistant du plan d’appui.",
           "PARAMETRES RADIOLOGIQUES :",
           "⬤ KV : 65.\n⬤ mAs : 25.\n⬤ DFF : 1m.",
           "RAYON DIRECTEUR :",
           "⬤ Ascendant de +20° centré à 4TD au-dessous de la protubérance occipital externe « L’inion ».",
-          "https://zonekapp.com/tekAssets/neuron_6.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_6.png",
           "CRITERES DE REUSSITE :",
           "⬤ Symétrie des condyles par rapport à la lame perpendiculaire.\n⬤ Le maxillaire inférieur est dégagé dans sa totalité.",
           "INTERET :",
@@ -1437,7 +1437,7 @@
       {
         "title": "Blondeau",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_7.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_7.png",
           "POSITION DU PATIENT :",
           "⬤ C’est une incidence postéro-antérieure.\n⬤ Le patient est assis ou debout.\n⬤ En appui menton/nez.\n⬤ Le plan OM=-50°.\n⬤ Le plan S=0°.",
           "PARAMETRES RADIOLOGIQUES :",
@@ -1446,7 +1446,7 @@
           "⬤Il est horizontal et centré sur l’Acanthion.",
           "VARIANTE :",
           "⬤ Incidence de GRASCHEY : le patient ouvre la bouche afin de voir les cellules ethmoïdales et le sinus.",
-          "https://zonekapp.com/tekAssets/neuron_8.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_8.png",
           "CRITERES DE REUSSITE :",
           "⬤ On doit avoir l’équidistance latérale.\n⬤ Le bord supérieur du rocher se projette en dessous du fond du sinus maxillaire."
         ]
@@ -1454,7 +1454,7 @@
       {
         "title": "HIRTZ (axiale)",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_9.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_9.png",
           "POSITION DU PATIENT :",
           "⬤ Le patient est assis.\n⬤ La tête est défléchie et prend appui par le vertex.\n⬤ C’est une incidence axiale.\n⬤ Le plan S est perpendiculaire au film.\n⬤ La symphyse mentonnière est au niveau des sinus frontaux.\n⬤ Le plan OM= -105°.",
           "PARAMETRES RADIOLOGIQUES :",
@@ -1463,7 +1463,7 @@
           "⬤ Il est horizontal et centré sur la ligne biauriculaire.",
           "VARIANTE :",
           "⬤ On peut la réaliser avec un rayon descendant.\n⬤ En décubitus dorsal avec un coussin sous les épaules.\n⬤ Subaxiale : OM= -90°.\n⬤ Hyper-axiale : OM= -120°, le rayon directeur est centré au milieu de la ligne joignant les gonions.",
-          "https://zonekapp.com/tekAssets/neuron_10.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_10.png",
           "CRITERES DE REUSSITE :",
           "Axiale : voir l’ensemble de la base du crâne, la symphyse mentonnière se projette sur les sinus frontaux.\nSubaxiale : l'étude de la base du crâne, des sinus sphénoïdaux et ethmoïdaux, des rochers, de certains trous de la base, des mastoïdes et de l'atlas.\n Hyperaxiale : La symphyse mentonnière se projette en avant des sinus frontaux."
         ]
@@ -1471,14 +1471,14 @@
       {
         "title": "OPN (PROFIL)",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_11.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_11.png",
           "POSITION DU PATIENT :",
           "⬤ Le patient est assis.\n⬤ Le plan S est parallèle au plan du film.",
           "PARAMETRES RADIOLOGIQUES :",
           "⬤ KV : 55.\n⬤ mAs : 3.\n⬤ DFF : 1m.",
           "RAYON DIRECTEUR :",
           "⬤ Il est centré au-dessus de l’aile du nez.",
-          "https://zonekapp.com/tekAssets/neuron_12.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_12.png",
           "CRITERES DE REUSSITE :",
           "⬤ On doit avoir les os propres et les parties molles bien visible.\n⬤ On doit voir le contour cutané.\n⬤ On doit avoir superposition des apophyses orbitaires du frontal.",
           "INTERET :",
@@ -1488,14 +1488,14 @@
       {
         "title": "GOSSEREZ",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_13.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_13.png",
           "POSITION DU PATIENT :",
           "⬤ C’est une incidence postéro-antérieure.\n⬤ Il est assis ou debout.\n⬤ La tête est très défléchie.\n⬤ Il est en appui par le menton.\n⬤ Le plan OM=-70°.\n⬤ Le plan S=0°.",
           "PARAMETRES RADIOLOGIQUES :",
           "⬤ KV : 55.\n⬤ mAs : 5.\n⬤ DFF : 1m.",
           "RAYON DIRECTEUR :",
           "⬤ Il est centré sur l’Acanthion et parallèle à l’arête du nez.",
-          "https://zonekapp.com/tekAssets/neuron_14.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_14.png",
           "CRITERES DE REUSSITE :",
           "⬤ L’auvent nasal est vu au travers de la voûte crânienne frontale.\n⬤ On doit avoir une symétrie des apophyses orbitaires externes avec la paroi latérale du crâne."
         ]
@@ -1503,14 +1503,14 @@
       {
         "title": "MAXILLAIRE DEFILE",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_15.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_15.png",
           "POSITION DU PATIENT :",
           "⬤ Le patient est assis ou debout.\n⬤ L’épaule du coté à radiographier est contre le plan d’appui.\n⬤ Le plan S est parallèle au plan du film.\n⬤ Inclinaison du plan S= 25°.",
           "PARAMETRES RADIOLOGIQUES :",
           "⬤ KV : 70.\n⬤ mAs : 5.\n⬤ DFF : 1m.",
           "RAYON DIRECTEUR :",
           "⬤ Il est horizontal et centré 1 cm en dessous de la branche horizontale du côté opposé.",
-          "https://zonekapp.com/tekAssets/neuron_16.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_16.png",
           "CRITERE DE REUSSITE :",
           "⬤ On doit avoir l’hémi-mâchoire exploitable dans sa totalité."
         ]
@@ -1518,7 +1518,7 @@
       {
         "title": "LE CAVUM",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/neuron_17.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_17.png",
           "POSITION DU PATIENT :",
           "⬤ Position idéal du sujet est la position verticale.\n⬤ Tête maintenu en profil stricte.\n⬤ PSM est parallèle au plan du récepteur.\n⬤ Le plan OM est horizontal.",
           "PARAMETRES RADIOLOGIQUES :",
@@ -1527,7 +1527,7 @@
           "⬤ Est centré sur l’échancrure sigmoïde de la branche montante du maxillaire inf. (soit 2cm en avant et 2 en bas du tragus).",
           "Remarque :",
           "⬤ La technique haute tension est recommandée, la bouche est bien fermée.",
-          "https://zonekapp.com/tekAssets/neuron_18.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/neuron_18.png",
           "CRITERE DE REUSSITE :",
           "⬤ Superposition parfaite des branches montantes et des angles du maxillaire inf.\n⬤ La clarté du cavum est bien désignée.",
           "Indications :",
@@ -1539,14 +1539,14 @@
       {
         "title": "Incidence de face (cranio-caudale)",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/mamographie_preview.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/mamographie_preview.png",
           "Position de la patiente :",
           "- La patiente debout face au statif.\n- Monter le statif à la hauteur des sillons sous mammaires.\n-Le bord postérieur du film doit être plus près de la paroi thoracique permettent de voir l’opacité partielle du muscle pectoral sur la plaque.\n-Dégager le mamelon.\n-Tirer sur la glande et comprimer le sein par compresseur.",
           "Paramètre radiologiques :",
           "-KV : 28 à 32.\n-Mas : 30 à 45.\n-DFF : 60 cm.",
           "Rayon directeur :",
           "-Il est vertical centré en arrière du mamelon.\n-Sur film marquage : externe et interne.",
-          "https://zonekapp.com/tekAssets/mamographie_1.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/mamographie_1.png",
           "Critères de réussite :",
           "-Visualisation de la graisse rétro-glandulaire.\n-Absence de pli cutané et d'artefact.\n-Image symétrique des deux seins.\n-Mamelon en position médiane se projetant en dehors du sein.",
           "Les régions cachées :",
@@ -1556,12 +1556,12 @@
       {
         "title": "Incidence oblique externe",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/mamographie_2.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/mamographie_2.png",
           "Position de la patiente :",
           "-L’incidence qui permet l’étude de la presque totalité du sein et dégage toute la face postérieure.\n-Principalement un angle de 45°, toutefois l’angle peut variée de 30° à 60 ° selon la morphologie de la patiente.\n-L’angle supérieur du film dans le creux axillaire.\n-Bien tirer le sein et l’étaler.",
           "Paramètre radiologiques :",
           "-KV : 28 à 32.\n-Mas : 30 à 45.\n-DFF : 60 cm.",
-          "https://zonekapp.com/tekAssets/mamographie_3.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/mamographie_3.png",
           "Critères de réussite :",
           "-Visibilité du grand pectoral.\n-Visualisation du prolongement axillaire\n-Dégagement du sillon sous-mammaire.\n-Visualisation de la lame graisseuse rétro-glandulaire.\n-Mamelon de profil se projetant en dehors du tissu mammaire.",
           "Les régions cachées :",
@@ -1571,7 +1571,7 @@
       {
         "title": "Incidence avec compression",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/mamographie_4.png",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/mamographie_4.png",
           "Technique :",
           "-Le MERM mesure de façon précise l’endroit où aura lieu la compression.\n-Sans agrandissement.\n-Permet distinguer si l’anomalie détectée à la mammographie de dépistage est réelle ou non.\n-La tomosynthèse peut être demandée à la place de la compression, (elle a un tube à émission de rayons X qui n’est pas fixe)."
         ]
@@ -1579,7 +1579,7 @@
       {
         "title": "Bonus",
         "paragraph": [
-          "https://zonekapp.com/tekAssets/mamographie_5.png, Les composantes d’un mammographe.",
+          "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/mamographie_5.png, Les composantes d’un mammographe.",
           "Généralités :",
           "⬤Chez la femme jeune non ménopausée, la mammographie est réalisée idéalement en première partie du cycle (entre J-8 et J-13).\nLe jour de l’examen, il est important :\n⬤De ne pas appliquer de produits (crème, parfum…) sur les seins.\n⬤D'amener la mammographie précédente.\n⬤De signaler les antécédents familiaux de cancer du sein et les antécédents personnels de chirurgie au niveau de sein.\n⬤La compression : Elle réduit l’épaisseur du sein et par là, le flou cinétique, le flou géométrique, le rayonnement diffusé, la dose et donne une meilleure uniformité de la densité.\n⬤La mammographie est souvent complétée par une échographie mammaire.",
           "Les indications :",
@@ -1858,12 +1858,12 @@
       ]
     },
     {
-      "level": "Quiz 2",
+      "level": "Quiz 3",
       "isNew": false,
       "quizList": [
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q1.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q1.png",
           "answer": [
             "Cette face sacrée est concave.",
             "Le n° 1 correspond au foramen vertébral de la 1ère vertèbre sacrée."
@@ -1876,7 +1876,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q2.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q2.png",
           "answer": [
             "Le n°3 correspond à l'aileron sacré.",
             "Le n°11 est recouvert de cartilage hyalin.",
@@ -1889,7 +1889,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q3.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q3.png",
           "answer": [
             "Le n°6 correspond au vestige de l'articulation inter-corporelle entre 1ère et 2ème vertèbre sacrée (S 1-82).",
             "Le n°7 désigne le corps vertébral de la 3ème vertèbre sacrée (S3).",
@@ -1902,7 +1902,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses : Ce schéma représente ?",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q4.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q4.png",
           "answer": [
             "Une vue du desmocrâne.",
             "Un crâne dont la croissance peut être suivie par l'étude du périmètre crânien."
@@ -1915,7 +1915,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q5.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q5.png",
           "answer": [
             "Le n°1 désigne la suture métopique.",
             "Le n°8 désigne la suture pariéto-occipitale.",
@@ -1928,7 +1928,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q6.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q6.png",
           "answer": [
             "Les n°4 et 7 désignent des zones fibreuses appelées « fontanelles ».",
             "La zone n°7 s'ossifie plus précocement que la n°4.",
@@ -1941,7 +1941,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q7.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q7.png",
           "answer": [
             "L'os n°5 est appelé hamatum."
           ],
@@ -1954,7 +1954,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q8.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q8.png",
           "answer": [
             "Le retinaculum des fléchisseurs s'insère sur les os n°4, 5, 8 et 1."
           ],
@@ -1967,7 +1967,7 @@
         },
         {
           "question": "Cochez-la ou les bonnes réponses",
-          "image": "https://zonekapp.com/tekAssets/qcm_level_3_q9.png",
+          "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/qcm_level_3_q9.png",
           "answer": [
             "Les n°2, 4 et 8 représentent des éléments osseux.",
             "Les n°1, 7 et 10 représentent des éléments capsulaires."
@@ -1997,7 +1997,7 @@
   "Articles": [
     {
       "title": "Notions en radioprotection",
-      "image": "https://zonekapp.com/tekAssets/articles_radioprection.png",
+      "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/articles_radioprection.png",
       "paragraph": [
         "Les rayonnements ionisants sont utilisés en milieu hospitalier pour des fins diagnostics ou thérapeutiques. Ces rayonnements ont plusieurs effets nocifs sur l’organisme, classés en deux grandes catégories. Il s’agit des effets déterministes dont on connait les seuils à partir desquels ces effets apparaissent, et des effets stochastiques qui apparaissent de façon aléatoire. Pour réduire les dommages qu’engendreraient ces effets, il nous faut des moyens de protection, d’où la notion de radioprotection qui est définie comme l’ensemble des règles, des procédures et des moyens de prévention et de surveillance visant à empêcher ou à réduire les effets nocifs des rayonnements ionisants sur l’homme et son environnement.",
         "Elle repose sur trois principes. Il s’agit du principe de justification, d’optimisation et de limitation qui ont édictés par la Commission Internationale de Protection Radiologique (CIPR), une organisation internationale non gouvernementale. Ces principes généraux visent à protéger efficacement l’individu contre les risques associés à une exposition aux rayonnements ionisants.",
@@ -2022,8 +2022,8 @@
         "Lorsque l’exposition est à finalité médicale, le principe de limitation des doses ne s’applique pas pour les patients : seuls (travailleurs, public) sont pris en compte les principes de justification et d’optimisation.",
         "Ces limites sont exprimées en termes de valeurs limites annuelles de dose efficace (corps entier), et de dose équivalente pour un organe donné. En médecine, en effet, il importe avant tout que les doses d’exposition soient suffisantes pour atteindre les informations diagnostiques désirées ou les buts thérapeutiques recherchés, dans la perspective du bénéfice escompté pour la santé des patients.",
         "La surveillance des travailleurs repose notamment sur l’analyse régulière des dosimètres personnels qu’ils ont obligation de porter dans l’exercice de leurs fonctions. Les valeurs réglementaires fixées par le code de la santé publique pour les membres du public et les travailleurs sont rappelées dans les tableaux IV et V.",
-        "https://zonekapp.com/tekAssets/radioprotection_3.png , Tableau IV : Limites réglementaires annuelles de dose pour les personnes du public.",
-        "https://zonekapp.com/tekAssets/radioprotection_4.png , Tableau V : Limites réglementaires annuelles de dose pour les travailleurs.",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_3.png , Tableau IV : Limites réglementaires annuelles de dose pour les personnes du public.",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_4.png , Tableau V : Limites réglementaires annuelles de dose pour les travailleurs.",
         "a) NE : Catégorie des travailleurs considérés comme non exposés (NE), donc avec les limites du public.",
         "b) A : Travailleurs de catégorie A, susceptibles de recevoir plus de 3/10èmes de l’une des limites réglementaires.",
         "c) B : Travailleurs de catégorie B, susceptibles de recevoir une dose supérieure à l’une des limites du public."
@@ -2031,7 +2031,7 @@
     },
     {
       "title": "Réconcilier éthique et radioprotection",
-      "image": "https://zonekapp.com/tekAssets/articles_ethique.png",
+      "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/articles_ethique.png",
       "paragraph": [
         "LA RADIOPROTECTION N'EST PAS SEULEMENT UNE QUESTION DE SCIENCE. C'EST UN PROBLÈME DE PHILOSOPHIE, DE MORALITÉ, ET DE LA PLUS GRANDE SAGESSE » (TAYLOR 1957)",
         "Bien que les technologies d’imagerie soient un acquis réel de la médecine moderne, et avec tous le développement technique et scientifique qui connait, leur introduction ne semble pas avoir été précédée d’une démarche réflexive suffisante qui aurait permis d’anticiper les multiples enjeux que rencontre la pratique radiologique actuelle. Cette démarche fait en sorte que l’on se retrouve aujourd’hui face à des enjeux importants relatifs à la radioprotection du patient comme la surutilisation des examens radiologiques ou encore le manque d’information des acteurs du milieu face aux risques des rayonnements. Il apparaît alors utile d’examiner la place que l’éthique a pu avoir ou a actuellement dans la discussion autour des enjeux de l’imagerie médicale.",
@@ -2057,7 +2057,7 @@
     },
     {
       "title": "Qualité de vie au travail au milieu hospitalier",
-      "image": "https://zonekapp.com/tekAssets/articles_quality.png",
+      "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/articles_quality.png",
       "paragraph": [
         "La place du travail dans notre société n’est pas seulement vu comme un gain-pain ou une ressource financière mais il est effectivement le moyen de s’intégrer socialement et de créer du lien social, ainsi qu’une partie intégrante de l’épanouissement personnel (École des Hautes Études en Santé Publique, 2013).",
         "Le psychologue C. Dejours démontre que tel n’est pas toujours le cas, loin s’en faut. Le travail comporte, à bien des égards, des atteintes à la santé physique et mentale des individus. On ne compte plus, aujourd’hui, les troubles musculo-squelettiques, les burnouts, et les suicides au travail (Dejours et Bègue 2009).",
@@ -2077,7 +2077,7 @@
     },
     {
       "title": "L’Intelligence Artificielle (IA) et l’imagerie médicale",
-      "image": "https://zonekapp.com/tekAssets/articles_ai.png",
+      "image": "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/articles_ai.png",
       "paragraph": [
         "Notre société actuelle hautement technologique est fortement influencée par les programmes ou les algorithmes informatiques. La médecine, elle non plus n’échappe pas à cette évolution.",
         "En particulier la radiologie médicale, d’ores et déjà à commencer à se pencher sur la technologie « intelligente », elle est l’un des premiers secteurs médicaux à être concerné concrètement par l’arrivée de dispositifs labellisés « intelligence artificielle » pour le traitement des images. Les exploits des machines qui, dotées de puissance de calcul folles et d’algorithmes de plus en plus sophistiqués, semblent concurrencer voire dépasser les radiologues les plus expérimentés. Fantasme ou réalité ? Quel est aujourd’hui l’impact de l’IA en radiologie ? (Sun et al., 2022)",
@@ -2091,7 +2091,7 @@
         "Une méthode permettant dans un temps fini grâce à une suite d’opérations définies d’obtenir un résultat (données de sortie) à partir de données d’entrée. Une suite de calcul est un algorithme. Le processus qui décrit l’établissement d’un diagnostic médical (donnée de sortie) à partir de données (entrées), cliniques, historique, biologique, génétique est un algorithme.(Brunelle & Brunelle, 2019).",
         "Imagerie médicale et IA :",
         "Avec les algorithmes de « deep learning », par ex. le « Convolutional Neural Network » (CNN), les chercheurs en intelligence artificielle sont parvenus à franchir une étape décisive dans la reconnaissance d’image, en particulier en combinaison avec l’immense puissance de calcul des ordinateurs actuels. Au moyen de milliers d’images, ce système apprend à reconnaître un objet, une personne ou les bordures de routes. Le secret de son succès réside dans le fait que, tout comme le cerveau humain, il fonctionne avec différents niveaux. Un niveau reconnaît la forme de l’objet, un autre la couleur, un autre encore le motif de surface, et ainsi de suite, et à la fin, ces informations sont échangées pour une classification correcte. Ce progrès dans la reconnaissance d’image s’impose naturellement dans la radiologie, dans le diagnostic d’imagerie. En principe, il ne s’agit de rien d’autre que d’une reconnaissance faciale de maladies. A Berne, un ordinateur spécial apprend justement à détecter les différents patterns TDM de la fibrose pulmonaire, car toutes les disciplines médicales ont du mal à les classifier correctement. L’ordinateur est aujourd’hui déjà supérieur au radiologue pour certains aspects de la reconnaissance des patterns de fibrose, (Schéma A). (Heverhagen, s. d.).",
-        "https://zonekapp.com/tekAssets/articles_ai_1.png, Schéma A :  Utilisation de L’IA dans la recherche des patterns de la fibrose pulmonaire à la TDM.(Heverhagen s. d.)",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/articles_ai_1.png, Schéma A :  Utilisation de L’IA dans la recherche des patterns de la fibrose pulmonaire à la TDM.(Heverhagen s. d.)",
         "De manière analogue, un ordinateur peut être utilisé en radiologie pour rechercher des pathologies: il passe au crible les milliers d’images du corps entier et trouvent les plus petites pathologies ou anomalies en quelques secondes.",
         "Malgré ces aides, c’est encore l’œil du médecin qui permettait l’interprétation diagnostique. Or celui-ci n’est pas exempt de défauts : L’œil humain, il est fatigable, ses performances dépendent de l’expérience acquise et restent limitées. Il souffre par exemple d’attention sélective. De plus, sa pertinence dépend de la visibilité (salience) des images à repérer. Une large lésion, dont le contraste est élevé sera facilement détectée, il n’en va pas de même lorsque la lésion est petite et de faible contraste et si elle se situe en dehors du champ nosologique interrogé.  Une étude a montré que 83 % des radiologues qui devaient analyser des images de scanner thoracique à la recherche d’un nodule pulmonaire n’ont pas été capables de repérer l’image d’un gorille qui avait été dissimulée sur l’un des clichés. Le gorille était pourtant 48 fois plus gros que le nodule. Une autre étude surprenante publiée en 2015 témoigne des capacités des pigeons à distinguer des micro calcifications bénignes et malignes sur des radiographies mammaires. Après une formation de 15 jours et 1 500 images visionnées, les pigeons arrivaient à un taux de réponses exactes de 85 %. La raison ? Une qualité de vision 10 fois supérieure à celles des humains, permettant de détecter sur les radiographies des microstructures invisibles à nos yeux. (L’intelligence artificielle en santé en 5 points clés | Campus Sanofi, s. d.).",
         "L'intelligence artificielle (IA) est en train de changer la façon dont la radiologie est pratiquée. Elle offre de nombreux avantages pour les radiologues et les patients, notamment : ",
@@ -2119,13 +2119,13 @@
         "Ces principes sont édictés par la Commission Internationale de Protection Radiologique (CIPR)",
         "a) La justification :",
         "⬤ Le respect de ce principe s’avère en pratique être une balance complexe de type rapport bénéfices/risques: ",
-        "https://zonekapp.com/tekAssets/radioprotection_1.png",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_1.png",
         "➤ Le bénéfice que le patient retire de l'examen doit être supérieur au risque radiologique",
         "⬤ Lorsque plusieurs techniques permettent d’obtenir le même résultat, le choix se portera sur celle qui est la moins « dosante » en rayonnements ionisants",
         "➤ Ex : Pas de radiographie si des résultats similaires sont obtenus avec une échographie",
         "b) La limitation :",
         "⬤ Il existe des limites de doses annuelles à ne pas dépasser : ",
-        "https://zonekapp.com/tekAssets/radioprotection_2.png",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_2.png",
         "⬤ La surveillance des travailleurs repose notamment sur l’analyse régulière des dosimètres personnels.\n⬤ Lorsque l’exposition est à finalité médicale, le principe de limitation des doses ne s’applique pas pour les patients.",
         "c) L'optimisation :",
         "⬤ Parfois dénommé ALARA, son acronyme anglais (as low as reasonably achieveable)\n⬤ La recherche de l'exposition minimum nécessaire pour l'obtention d'une image interprétable.\n",
@@ -2162,9 +2162,9 @@
       "paragraph": [
         "La surveillance des travailleurs repose notamment sur l’analyse régulière des dosimètres personnels qu’ils ont obligation de porter dans l’exercice de leurs fonctions. Les valeurs réglementaires fixées par le code de la santé publique pour les membres du public et les travailleurs sont rappelées dans les tableaux IV et V.",
         "Tableau IV : Limites réglementaires annuelles de dose pour les personnes du public : ",
-        "https://zonekapp.com/tekAssets/radioprotection_3.png",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_3.png",
         "Tableau V : Limites réglementaires annuelles de dose pour les travailleurs : ",
-        "https://zonekapp.com/tekAssets/radioprotection_4.png",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_4.png",
         "a) NE : Catégorie des travailleurs considérés comme non exposés (NE), donc avec les limites du public.",
         "b) A : Travailleurs de catégorie A, susceptibles de recevoir plus de 3/10èmes de l’une des limites réglementaires.",
         "c) B : Travailleurs de catégorie B, susceptibles de recevoir une dose supérieure à l’une des limites du public."
@@ -2176,7 +2176,7 @@
         "Le zonage consiste en une délimitation et une signalisation de zones réglementées, permettant d’identifier le danger. Le zonage est établi sous la responsabilité du directeur d’unité qui s’appuie sur la personne compétente en radioprotection pour évaluer la nature et l’ampleur du risque.",
         "Cette délimitation est fondée sur l’analyse préalable des risques à partir : ",
         "⬤ Des caractéristiques des sources et des installations.\n⬤ Des résultats des contrôles techniques de radioprotection et contrôles d’ambiance.\n⬤ Des opérations qui sont menées auprès des sources de rayonnements.",
-        "https://zonekapp.com/tekAssets/radioprotection_5.png",
+        "https://raw.githubusercontent.com/saidmotya/tekRadio/refs/heads/main/assets/radioprotection_5.png",
         "Ces zones sont désignées : ",
         "1. Au titre de la dose efficace.\n2. Au titre de la dose équivalente pour les extrémités et de la peau.\n3. Au titre de concentration d’activité dans l’air du radon."
       ]
@@ -2208,17 +2208,17 @@
       "url": ""
     }
   ],
-  
+
   "ChatAI": {
     "ChatModule": "gemini-1.5-flash",
     "ChatKey": [
-        "AIzaSyAaFlG0BriPVdvMMeX7mEA9JARycToYf-k"
+      "AIzaSyAaFlG0BriPVdvMMeX7mEA9JARycToYf-k"
     ]
   },
-  
+
   "AdController": {
     "bannerId"      : "ca-app-pub-3940256099942544/9214589741",
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "intervalAd": 1
+    "intervalAd"    : 2
   }
 }
